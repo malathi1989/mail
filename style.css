@@ -1,0 +1,21 @@
+.input_box 
+{ 
+   width:200px;
+   height:40px;    
+   border-radius: 15px ;
+   Padding:20px;
+  
+} 
+
+.log_in 
+{ 
+  
+ width: 100px; 
+ height: 40px;  
+ border-radius: 15px;
+ cursor: pointer; 
+ text-align: center; 
+ background-color: #95B9C7;
+ font-size:15px ;
+
+} 
